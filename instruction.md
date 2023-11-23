@@ -27,3 +27,5 @@
 Текст [пример ссылки] (http.example.com "Всплывающая ссылка")
 
 # Добавим как добавлять картинки в MarkDown
+Это птица
+![Птица](pngtree-phoenix-bird-in-flames-wallpapers-wallpapershd-image_2697352)
