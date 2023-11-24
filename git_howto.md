@@ -11,5 +11,5 @@ git log --oneline все коммиты выводятся одной строк
 git checkout
 gut branch <branchname> - создание новой ветки
 git branch - выводит список веток на экран
-git merge  - слияние веток
+git merge  "text"- слияние веток
 git branch -d <text_formatting> - удаление ветки
