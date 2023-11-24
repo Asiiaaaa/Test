@@ -9,3 +9,7 @@ git commit - m "Messenge"
 git log
 git log --oneline
 git checkout
+gut branch <branchname>
+git branch - выводит список веток на экран
+git merge  - слияние веток
+git branch -d <text_formatting>
