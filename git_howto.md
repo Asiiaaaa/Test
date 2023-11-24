@@ -11,7 +11,12 @@ git init
 git add
 ```
 
+Добавление коммита
+```sh
 git commit - m "Messenge"
+```
+
+
 git log
 git log --oneline все коммиты выводятся одной строкой
 git checkout
