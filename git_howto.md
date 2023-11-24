@@ -1,13 +1,25 @@
 # Подсказка по GIT
+### Шпаргалка по основным командам
 
 Создание репозитория:
 ```sh
 git init
 ```
+
+Добавление содержимого директории для последующего коммита
+```sh
 git add
+```
+
+Добавление коммита
+```sh
 git commit - m "Messenge"
-git log
-git log --oneline
+```
+
+Просмортр истории коммитов
+```sh
+git log или git log --oneline
+```
 
 Видимость коммитов из всех веток
 
@@ -15,8 +27,29 @@ git log --oneline
 git log --graph
 
 ```
+
+## Шпаргалка по ветвлению и слиянию
+
+Создание новой ветки
+```sh
+git branch <branchname> 
+```
+
+Вывод всех веток 
+```sh
+git branch
+```
+
+Переключение веток
+```sh
 git checkout
-gut branch <branchname> - создание новой ветки
-git branch - выводит список веток на экран
-git merge  - слияние веток
-git branch -d <text_formatting> - удаление ветки
+```
+
+Слияние веток
+```sh
+git merge 
+```
+ Удаление веток
+```sh
+git branch -d <text_formatting>
+```
