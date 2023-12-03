@@ -54,6 +54,7 @@ git merge
 git branch -d <text_formatting>
 ```
 
+Шпаргалка по работе с удаленным репозиторием
 ```sh
 git clone
 ```
