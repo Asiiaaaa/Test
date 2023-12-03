@@ -53,3 +53,8 @@ git merge
 ```sh
 git branch -d <text_formatting>
 ```
+
+```sh
+git clone
+```
+
