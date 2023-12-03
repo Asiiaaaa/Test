@@ -64,3 +64,8 @@ git branch -d <text_formatting>
 git clone <ссылка>
 ```
 
+Команда по передаче изменений в удаленный репозиторий
+
+```sh
+git push
+```
